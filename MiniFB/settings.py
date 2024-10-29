@@ -81,9 +81,9 @@ WSGI_APPLICATION = 'MiniFB.wsgi.application'
 DATABASES = {
     'default': {
        'ENGINE': 'django.db.backends.mysql',
-       'NAME' : 'minifb',
-       'USERNAME' : 'arnoldm',
-       'PASSWORD' : '12345',
+       'NAME' : 'ariar',
+       'USERNAME' : 'root',
+       'PASSWORD' : '',
        'HOST' : 'localhost',
        'PORT' : '3306'
     }
